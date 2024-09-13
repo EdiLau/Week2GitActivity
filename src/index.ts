@@ -12,5 +12,7 @@ const result_subtract = calc.subtract(3, 2);
 console.log(`result_add = ${result_add}`);
 console.log(`result_subtract = ${result_subtract}`);
 
+// new line
+
 
 
